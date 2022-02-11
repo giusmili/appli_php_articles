@@ -31,6 +31,7 @@
                 
                 
         </fieldset>
+        </div>
         <?php if($_article->rowCount() > 0){?>
             <article>
                 <?php while($data = $_article->fetch()){?>
@@ -62,7 +63,7 @@
         
         
 
-</div>
+
  
 </main>
     
