@@ -68,6 +68,9 @@ nav ul{
 nav ul li{
     text-align: center;
 }
+article{
+    margin-bottom: 1rem;
+}
 article h2::before{
     content: url(../asset/calendar.svg);
     filter: invert(100%);

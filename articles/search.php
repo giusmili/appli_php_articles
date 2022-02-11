@@ -52,8 +52,13 @@
                 <?php } else {?>
                         <p class="warning"> Aucun réseultat pour <?= $query ?>....</p>
                 <?php } ?>
-
+               
+                
             </article>
+            <nav>
+                <a class="button" href="index.php">Revenir aux articles</a>
+            </nav>
+            
         
         
 

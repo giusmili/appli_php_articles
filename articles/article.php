@@ -47,7 +47,8 @@
     </article>
     <nav>
         <a class="button" href="index.php">Go home</a><!--
-    --><a class="button" href="pub.php">Publier un article</a>
+    --><a class="button" href="pub.php">Publier un article</a><!--
+    --><a class="button" href="search.php">Rechercher les articles</a>
     </nav>
 
 </main>

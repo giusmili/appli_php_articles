@@ -19,6 +19,9 @@
             include_once "./src/connect.inc.php";
         ?>
     <!--end -->
+    <nav>
+        <a class="button" href="search.php">Rechercher les articles</a>
+    </nav>
     </main>
     <footer>
         <p>&copy; - MIT - <?= $_date_php ?></p>
